@@ -1,0 +1,24 @@
+{
+  "name": "editor-video",
+  "version": "0.2.1",
+  "description": "Editor local com geração de vídeo Magnific primeiro e fal como alternativa, montagem manual e histórico.",
+  "author": {
+    "name": "Felipe Belloni"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Editor de Vídeo",
+    "shortDescription": "Crie e edite vídeos locais",
+    "longDescription": "Editor local com geração de vídeo Magnific primeiro e fal como alternativa, montagem manual e histórico.",
+    "developerName": "Felipe Belloni",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Abra meu editor de vídeo e ajude a criar ou editar um projeto.",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg"
+  }
+}

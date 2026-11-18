@@ -1,0 +1,26 @@
+{
+  "name": "bell-dev-os",
+  "version": "1.0.0+codex.20260923115604",
+  "description": "Sistema Bell de planejamento, especifica\u00e7\u00e3o, desenvolvimento, QA e revis\u00e3o de software orientado por agentes.",
+  "author": {
+    "name": "Bell"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bell Dev OS",
+    "shortDescription": "Governan\u00e7a proporcional para desenvolvimento com IA",
+    "longDescription": "Planeja, implementa, verifica e revisa mudan\u00e7as de software com rigor proporcional ao risco.",
+    "developerName": "Bell",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Bell iniciar site",
+      "Bell iniciar projeto",
+      "Planeje esta feature com o rigor adequado ao risco.",
+      "Implemente esta spec e verifique os crit\u00e9rios de aceita\u00e7\u00e3o.",
+      "Revise esta mudan\u00e7a e relate problemas objetivos."
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "imob-adv",
+  "version": "1.0.0",
+  "description": "Assistente para estudo e prática do Direito Imobiliário brasileiro, com triagem, fontes oficiais, checklists e minutas editáveis.",
+  "keywords": ["direito-imobiliario", "brasil", "locacao", "registro-de-imoveis"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "IMOB ADV",
+        "shortDescription": "Apoio em Direito Imobiliário brasileiro",
+        "category": "Education & Research",
+        "defaultPrompt": ["Ajude-me a revisar um contrato de locação residencial."]
+      }
+    }
+  }
+}

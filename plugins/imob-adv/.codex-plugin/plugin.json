@@ -1,0 +1,11 @@
+{
+  "name": "imob-adv",
+  "version": "1.0.0",
+  "description": "Apoio em Direito Imobiliário brasileiro.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "IMOB ADV",
+    "shortDescription": "Apoio em Direito Imobiliário brasileiro",
+    "defaultPrompt": ["Ajude-me a revisar um contrato de locação residencial."]
+  }
+}

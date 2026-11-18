@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion editorial"
+  short_description: "Animações fluidas com continuidade e ritmo de leitura"
+  default_prompt: "Use $motion-editorial para revisar a continuidade, as conexões e o ritmo desta animação e corrigir as quebras observadas."

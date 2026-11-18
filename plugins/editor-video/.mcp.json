@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "editor-video": {
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/server.mjs"
+      ]
+    }
+  }
+}
