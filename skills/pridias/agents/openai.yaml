@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pridias"
+  short_description: "Descobre e seleciona as skills relevantes para cada tarefa"
+  default_prompt: "Use $pridias para descobrir minhas skills atuais e escolher as relevantes para esta tarefa."
+policy:
+  allow_implicit_invocation: true
